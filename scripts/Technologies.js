@@ -1,0 +1,1 @@
+import { getTechnology } from "./database";
